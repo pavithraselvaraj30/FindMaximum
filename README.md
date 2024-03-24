@@ -42,7 +42,9 @@ def max_marks(marks):
 
 ## Output:
 ![Screenshot 2024-03-24 202246](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/26b497ab-c6a6-40c6-833c-d70700c26c4b)
+
 ![Screenshot 2024-03-24 202304](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/7e63f9af-bcac-47a2-b602-d4b074afa509)
+
 ![Screenshot 2024-03-24 202325](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/daf4c691-3829-47e2-8495-68059c3ae11b)
 
 
