@@ -41,11 +41,13 @@ def max_marks(marks):
 
 
 ## Output:
-![Screenshot 2024-03-24 202246](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/26b497ab-c6a6-40c6-833c-d70700c26c4b)
+![Screenshot 2024-04-08 161400](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/9611a24d-17fb-4e93-a488-d3a893fc7196)
 
-![Screenshot 2024-03-24 202304](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/7e63f9af-bcac-47a2-b602-d4b074afa509)
+![Screenshot 2024-04-08 161414](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/2390fcee-d7be-4e44-850f-64b915f8564b)
 
-![Screenshot 2024-03-24 202325](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/daf4c691-3829-47e2-8495-68059c3ae11b)
+![Screenshot 2024-04-08 161431](https://github.com/pavithraselvaraj30/FindMaximum/assets/149366880/40a1894a-9c5e-4c0f-b330-5f4c8a18165c)
+
+
 
 
 ## Result:
